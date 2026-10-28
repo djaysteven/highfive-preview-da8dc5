@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 108" fill="none" role="img" aria-hidden="true">
+  <path d="M50 5.5L94.5 40.2V102.5H5.5V40.2L50 5.5Z" fill="var(--mark-fill)" stroke="currentColor" stroke-width="3.25" stroke-linejoin="round"/>
+  <rect x="42.2" y="16.2" width="15.6" height="11.2" rx="0.8" stroke="currentColor" stroke-width="2.15"/>
+  <text x="50" y="63" text-anchor="middle" fill="var(--mark-ink)" font-family="Syne, Manrope, sans-serif" font-size="12.2" font-weight="700" letter-spacing="0.05">HIGHFIVE</text>
+  <text x="50" y="81.5" text-anchor="middle" fill="var(--mark-ink)" font-family="Syne, Manrope, sans-serif" font-size="9.6" font-weight="700" letter-spacing="0.35">HOTEL</text>
+</svg>
