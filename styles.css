@@ -1,4 +1,4 @@
-/* Highfive Hotel — Five-stack demo. Accent from banner wordmark #1F59FE. Teal is Vantage footer only. */
+/* Highfive Hotel — Five-stack demo. Accent from banner wordmark #1F59FE. Teal is RocketNest Design footer only. */
 :root {
   --bg: #071018;
   --bg-elevated: #0c1824;
@@ -22,7 +22,7 @@
   --font-display: "Syne", "IBM Plex Sans Thai", Manrope, sans-serif;
   --font-body: "Manrope", "IBM Plex Sans Thai", system-ui, sans-serif;
   --header-h: 4.15rem;
-  --vantage-teal: #2ec4b6;
+  --rocketnest-teal: #009dfe;
   --mark-fill: rgba(7, 16, 24, 0.35);
   --mark-ink: #f4f7fb;
   color-scheme: dark;
@@ -438,18 +438,18 @@ textarea { min-height: 96px; resize: vertical; }
 .footer-grid { display: grid; gap: 1rem; }
 @media (min-width: 800px) { .footer-grid { grid-template-columns: 1.2fr 0.8fr; } }
 .fine { color: var(--muted); font-size: 0.82rem; }
-.vantage {
+.rocketnest {
   margin-top: 1rem;
   background: #0A0A0B;
   color: #F4F1EA;
   padding: 1rem 0 calc(1rem + env(safe-area-inset-bottom, 0px));
 }
-.vantage .container { display: flex; flex-wrap: wrap; gap: 0.8rem 1.2rem; align-items: center; justify-content: space-between; }
-.vantage img { height: 34px; width: auto; }
-.vantage .tag {
+.rocketnest .container { display: flex; flex-wrap: wrap; gap: 0.8rem 1.2rem; align-items: center; justify-content: space-between; }
+.rocketnest img { height: 34px; width: auto; }
+.rocketnest .tag {
   font-weight: 800; letter-spacing: 0.08em; color: #2EC4B6; font-size: 0.78rem;
 }
-.vantage p { margin: 0.2rem 0 0; color: #F4F1EA; font-size: 0.8rem; max-width: 36rem; }
+.rocketnest p { margin: 0.2rem 0 0; color: #F4F1EA; font-size: 0.8rem; max-width: 36rem; }
 
 .sticky-bar {
   position: fixed; left: 0; right: 0; bottom: 0; z-index: 70;

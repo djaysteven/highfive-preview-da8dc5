@@ -61,7 +61,7 @@
   var menuBtn = document.getElementById("menuBtn");
   var sheet = document.getElementById("mobileNav");
   var scrim = document.getElementById("menuScrim");
-  var lockEls = [document.querySelector("main"), document.querySelector(".site-footer"), document.querySelector(".vantage"), document.querySelector(".sticky-bar")];
+  var lockEls = [document.querySelector("main"), document.querySelector(".site-footer"), document.querySelector(".rocketnest"), document.querySelector(".sticky-bar")];
   function setLocked(on) {
     document.documentElement.classList.toggle("nav-open", on);
     document.body.style.overflow = on ? "hidden" : "";
